@@ -2,6 +2,8 @@
 
 A simple browser-based game featuring a running dinosaur.
 
+https://nabil-dino-game.netlify.app/
+
 ## How to Play
 
 1. Open the game in a web browser.
